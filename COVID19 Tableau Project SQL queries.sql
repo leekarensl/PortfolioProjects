@@ -39,7 +39,7 @@ GROUP BY
 ORDER BY 
   population_infected_percent DESC;
 
--- As above but with date column. 
+-- As above but with date column. Note that the forecasting was Tableau's own algorithm.
 
 SELECT
   location, 
