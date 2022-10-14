@@ -4,12 +4,12 @@ Queries used for Tableau Project
 
 -- Global Numbers
 
-Select
+SELECT
   SUM(new_cases) as total_cases, 
   SUM(new_deaths) as total_deaths, 
   SUM(new_deaths)/SUM(New_Cases) * 100 as death_percentage
-From `portfolioproject-365216.Covid19.CovidDeaths`
-where continent is not null;
+FROM `portfolioproject-365216.Covid19.CovidDeaths`
+WHERE continent is not null;
 
 
 -- Total Death Counts by Continent 
@@ -47,7 +47,7 @@ SELECT
   date,
   MAX(total_cases) as highest_infection_count,
   Max((total_cases/population)) * 100 as population_infected_percent
-From `portfolioproject-365216.Covid19.CovidDeaths`
+FROM `portfolioproject-365216.Covid19.CovidDeaths`
 GROUP BY
  location, population, date
 ORDER BY
