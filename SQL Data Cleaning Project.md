@@ -44,7 +44,7 @@ JOIN `portfolioproject-365216.Housing.Nashville` b
 ```
 ## Splitting values into two or more columns
 ### PropertyAddress
-Now that _null_ values have been taken care of in the _PropertyAddress_, in order to increase readability, the city was **SPLIT** from the main address using the _split_ function in Google BigQuery. As the city is indicated after the comma delimiter ( , ) from the main address, the delimiter was use as a split point in the SQL query:
+Now that _null_ values have been taken care of in the _PropertyAddress_, in order to increase readability, the city was split from the main address using the **SPLIT** function in Google BigQuery. As the city is indicated after the comma delimiter ( , ) from the main address, the delimiter was use as a split point in the SQL query:
 ```sql
 SELECT
   SPLIT(PropertyAddress, ' , ') [offset(0)] AS address,
