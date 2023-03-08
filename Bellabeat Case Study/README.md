@@ -35,3 +35,7 @@ Analysis was completed using Tableau public. I have split my findings into a 2-p
 The key metric for a company like Bellabeat would be user engagement with their products. They would want users to wear them every day 24/7 because it is the only way to get more data about their users' activities and lifestyles. Bellabeat already has a product that is lightweight (Leaf) and to create greater awareness for this product, a targeted marketing campaign can be carried to further promote awareness of this product.
 
 2. **Campaigns to encourage desired behaviour**
+
+Design of the devices aside, users need to feel they have a reason for wearing the trackers in the first place. So companies like Bellabeat could encourage desired behaviours through their marketing campaigns. If the majority of the users are not walking the minimum recommended steps, have a campaign encouraging an increase in step count.
+
+
