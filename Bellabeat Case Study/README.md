@@ -16,4 +16,10 @@ On most occasions, you will find others performing analysis on this dataset usin
 
 ## The Client - Bellabeat
 
-Bellabeat is a high tech manufacturer of health focused
+[Bellabeat](https://bellabeat.com/) is a high tech manufacturer of health focused products for women. They sell a number of products but their key products are health trackers. The Bellabeat app connects to their line of wellness products and provide their users with health data related to their activities, sleep, stress, menstrual cycle and mindfulness habits. 
+
+Other products they have include Coach, a subscription based membership programme for users which promises a fully personalised guidance on topics like nutrition, activity, sleep, health, beauty and mindfulness.
+
+## The Brief
+
+The client has ambitions to become a larger player in the global fitness smart device market and they believe that analysing consumer data would reveal more growth opportunities for them. They have therefore requested for this specific dataset from Fitbit to be analysed so that insights can be gained how consumers are using non Bellabeat devices. 
