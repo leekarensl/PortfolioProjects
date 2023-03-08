@@ -36,6 +36,8 @@ The key metric for a company like Bellabeat would be user engagement with their 
 
 2. **Campaigns to encourage desired behaviour**
 
-Design of the devices aside, users need to feel they have a reason for wearing the trackers in the first place. So companies like Bellabeat could encourage desired behaviours through their marketing campaigns. If the majority of the users are not walking the minimum recommended steps, have a campaign encouraging an increase in step count.
+Design of the devices aside, users need to feel they have a reason for wearing the trackers in the first place. So companies like Bellabeat could encourage desired behaviours through their marketing campaigns. If the majority of the users are not walking the minimum recommended steps, have a campaign encouraging an increase in step count, as an example. 
 
+3. **Campaigns that encourage brand attachment**
 
+Findings from the analysis reveals that users likely to burn the most daily calories are those who wear the device most frequently. This is not surprising especially if users have associated wearing the device to doing more activity or steps. There is a tendency for people to continue a behaviour if they have previously experienced positive results from that behaviour. So if Bellabeat has a campaign encouraging users to increase their step count, then follow up with a social media campaign targeted at those who indeed had increased their step count
