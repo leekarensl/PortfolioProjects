@@ -18,7 +18,7 @@ GROUP BY PropertyAddress;
 ## Handling NULL values
 Running the last query above informed that there were 29 _null_ values for _PropertyAddress_. 
 
-On examining the [raw data](https://github.com/leekarensl/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx), it was noticed that data with identical ParcelID also had identical values as the _PropertyAddress_. This was further confirmed using the following SQL **Self Join** query:
+On examining the [raw data](https://github.com/leekarensl/PortfolioProjects/blob/main/SQL%20BigQuery/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx), it was noticed that data with identical ParcelID also had identical values as the _PropertyAddress_. This was further confirmed using the following SQL **Self Join** query:
 ```sql
 SELECT
   a.ParcelD,
