@@ -1,7 +1,7 @@
 
 [![Logo](bank-churn-logo.png)](https://leekarensl.github.io/2023/03/24/customer-churn-prediction.html)
 
-
+# Credit Card Customer Churn Exploratory Analysis and Prediction Model Build
 
 This repository contains the data file for the creation of the Balanced Random Forest model used to predict customer churn for a bank.
 
